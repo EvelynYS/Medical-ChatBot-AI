@@ -5,7 +5,7 @@ aiofiles
 fastapi
 pypdf
 python-dotenv
-pinecone[grpc]
+pinecone
 langchain-pinecone
 langchain_community
 langchain_openai
@@ -13,3 +13,19 @@ langchain_experimental
 langchain-huggingface
 
 -e .
+
+# sentence-transformers
+# langchain
+# flask
+# aiofiles
+# fastapi
+# pypdf
+# python-dotenv
+# pinecone[grpc]
+# langchain-pinecone
+# langchain_community
+# langchain_openai
+# langchain_experimental
+# langchain-huggingface
+
+# -e .
